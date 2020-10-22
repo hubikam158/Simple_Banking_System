@@ -1,0 +1,30 @@
+# Project exclude paths
+/.gradle/
+/Problems/Adding values/out/
+/Problems/Adding values/out/production/classes/
+/Problems/Advanced calculator/out/
+/Problems/Advanced calculator/out/production/classes/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Difference between two doubles/out/
+/Problems/Difference between two doubles/out/production/classes/
+/Problems/Gaussian random numbers/out/
+/Problems/Gaussian random numbers/out/production/classes/
+/Problems/Get first and last elements/out/
+/Problems/Get first and last elements/out/production/classes/
+/Problems/Inverse boolean flags/out/
+/Problems/Inverse boolean flags/out/production/classes/
+/Problems/Parameters and their values/out/
+/Problems/Parameters and their values/out/production/classes/
+/Problems/The index of an argument/out/
+/Problems/The index of an argument/out/production/classes/
+/Problems/The integer barrier/out/
+/Problems/The integer barrier/out/production/classes/
+/Problems/The sum of digits/out/
+/Problems/The sum of digits/out/production/classes/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/
+/Simple Banking System/task/out/production/classes/
+/Simple Banking System/task/out/test/classes/

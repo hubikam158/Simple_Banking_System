@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems-The_index_of_an_argument" external.linked.project.path="$MODULE_DIR$/../../../../Problems/The index of an argument" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Banking_System" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/The index of an argument">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The index of an argument/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The index of an argument/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The index of an argument/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
